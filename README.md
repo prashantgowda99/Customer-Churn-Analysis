@@ -1,1 +1,1 @@
-# Customer-Churn-Analysis
+Churn analysis helps telecom companies identify weak spots and improve customer retention. By focusing on contract types, pricing strategies, and payment methods, companies can reduce churn and increase customer satisfaction.
